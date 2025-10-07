@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Medidas de manejo ambiental aplicadas al sector avícola'
