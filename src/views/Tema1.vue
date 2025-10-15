@@ -12,7 +12,7 @@
 
         .row.align-items-center.m-0.mb-5
           .col-xl.style___box_2(data-aos="fade-right")
-            p.mb-0 La Producción Más Limpia (PML) se define como la implementación de acciones ambientales de acuerdo con los procesos productivos con el fin de <strong>aumentar la eficiencia y minimizar los riesgos</strong> para las personas y el medio ambiente (Organización de las Naciones Unidas para el Desarrollo Industrial, 2006).
+            p.mb-0 La Producción Más Limpia (PML) se define como la implementación de acciones ambientales de acuerdo con los procesos productivos con el fin de <strong>aumentar la eficiencia y minimizar los riesgos</strong> para las personas y el medioambiente (Organización de las Naciones Unidas para el Desarrollo Industrial, 2006).
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img2.png", alt="" ).m-auto 
@@ -80,7 +80,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Buenas prácticas de operación
     
-    p.mb-5 Teniendo en cuenta los procesos productivos que se desarrollan en el sector avícola, en pro de un adecuado manejo preventivo, pueden implementarse prácticas que contribuyen con el manejo ambiental. Entre las principales prácticas se pueden implementar las siguientes:
+    p.mb-5 Teniendo en cuenta los procesos productivos que se desarrollan en el sector avícola, en pro de un adecuado manejo preventivo, pueden implementarse prácticas que contribuyen con el manejo ambiental. Entre las principales prácticas que se pueden implementar están las siguientes:
 
     .fondo___color_2
       .px-5

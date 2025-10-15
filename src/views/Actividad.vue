@@ -28,7 +28,7 @@ export default {
         {
           id: 1,
           texto:
-            'La Producción Más Limpia en el sector avícola busca principalmente:',
+            'La producción más limpia en el sector avícola busca principalmente:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

@@ -175,7 +175,7 @@
                 td.ajuste-border-tabla.texto-left Oficinas y administración
                 td.ajuste-border-tabla.texto-left Labores administrativas.
                 td.ajuste-border-tabla.texto-left Utensilios gastados, papel de oficina usado.
-                td.texto-left <strong>Residuo aprovechable</strong>
+                td.texto-left <strong>Residuo aprovechable</strong>.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Sanitarios y duchas
                 td.ajuste-border-tabla.texto-left Actividades de aseo personal.

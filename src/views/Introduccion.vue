@@ -18,7 +18,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/intro/img2.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Este componente formativo, titulado <strong>medidas de manejo ambiental aplicadas al sector avícola</strong>, ofrece un panorama integral sobre las prácticas que deben implementarse en granjas y plantas de beneficio para garantizar un desarrollo responsable. A través de contenidos claros y aplicables, se abordan acciones enfocadas en la producción más limpia, la gestión eficiente de los recursos naturales, el manejo de residuos y la adopción de tecnologías limpias que aportan a la reducción de riesgos sanitarios y ambientales.
+            p.mb-0 Este componente formativo, titulado <strong>Medidas de manejo ambiental aplicadas al sector avícola</strong>, ofrece un panorama integral sobre las prácticas que deben implementarse en granjas y plantas de beneficio para garantizar un desarrollo responsable. A través de contenidos claros y aplicables, se abordan acciones enfocadas en la producción más limpia, la gestión eficiente de los recursos naturales, el manejo de residuos y la adopción de tecnologías limpias que aportan a la reducción de riesgos sanitarios y ambientales.
         
         .row.align-items-center.m-0
           .col-xl.style___box_1(data-aos="fade-right")

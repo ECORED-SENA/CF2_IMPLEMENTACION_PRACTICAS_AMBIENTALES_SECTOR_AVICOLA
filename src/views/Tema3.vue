@@ -430,7 +430,7 @@
             figure.d-none.d-xl-block(data-aos="fade-right")
               img(src="@/assets/curso/temas/img60.svg" style="max-width: 220px").m-auto
           .col
-            h4.mb-4 Lo invitamos a escuchar el siguiente pódcast:
+            h4.mb-4 Lo invitamos a escuchar el siguiente Pódcast:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Gestión integral de residuos en unidades de producción avícola"
               :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
@@ -525,7 +525,7 @@
         <!-- BLOQUE 4 -->
         Separador
         #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 3.4 Gestión Integral de recurso hídrico
+          h2 3.4 Gestión integral de recurso hídrico
     
     p.mb-5 El consumo de agua es un aspecto ambiental clave en los procesos productivos avícolas. Tanto en granjas como en plantas de beneficio se recomienda el uso de <strong>agua potable</strong>, ya que garantiza condiciones sanitarias adecuadas para los productos alimenticios. Para ello, se deben implementar las siguientes medidas de manejo ambiental.
 
@@ -611,7 +611,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Tabla 2.
-      span Ahorro de Agua con el Uso de Pistolas en Mangueras
+      span Ahorro de agua con el uso de pistolas en mangueras
     .tabla-a(data-aos="zoom-in").mb-5
       table
         caption Nota.  Federación Nacional de Avicultores de Colombia y Fondo Nacional Avícola (2024).
@@ -1087,7 +1087,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Tabla 5.
-          span Indicadores de Educación Ambiental
+          span Indicadores de educación ambiental
         .tabla-a(data-aos="zoom-in")
           table
             thead

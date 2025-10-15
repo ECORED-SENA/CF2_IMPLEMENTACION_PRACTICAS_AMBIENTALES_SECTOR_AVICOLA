@@ -203,7 +203,7 @@ export default {
     {
       termino: 'Residuos peligrosos',
       significado:
-        'residuo o desecho que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radioactivas, pueden causar riesgos, daños, o efectos no deseados directos e indirectos, a la salud humana y el ambiente.',
+        'residuo o desecho que, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radioactivas, puede causar riesgos, daños o efectos no deseados directos e indirectos a la salud humana y el ambiente.',
     },
   ],
   referencias: [
