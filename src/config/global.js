@@ -99,7 +99,7 @@ export default {
           },
           {
             numero: '3.4',
-            titulo: 'Gestión Integral de recurso hídrico',
+            titulo: 'Gestión integral de recurso hídrico',
             hash: 't_3_4',
           },
           {
