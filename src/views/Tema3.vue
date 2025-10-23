@@ -433,7 +433,7 @@
             h4.mb-4 Lo invitamos a escuchar el siguiente Pódcast:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Gestión integral de residuos en unidades de producción avícola"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/Implementacion_practicas_ambientales_sector_avicola.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto
