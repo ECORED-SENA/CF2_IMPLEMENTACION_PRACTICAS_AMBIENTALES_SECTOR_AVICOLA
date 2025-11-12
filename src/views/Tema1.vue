@@ -108,7 +108,7 @@
           .col
             h3 Importancia del manejo de residuos orgánicos en plantas de sacrificio
         
-        p.mb-5 El manejo de residuos orgánicos en las plantas de sacrificio es fundamental. Según datos de la Federación Nacional de Avicultores de Colombia y el Fondo Nacional Avícola (2024), en el proceso de sacrificio:
+        p.mb-5 El manejo de residuos orgánicos en las plantas de sacrificio es fundamental. Según datos de la Federación Nacional de Avicultores de Colombia y el Fondo Nacional Avícola (2024), en el proceso de sacrificio se deberá garantizar:
 
         .row.justify-content-center
           .col-xl-6
