@@ -240,7 +240,7 @@ export default {
     {
       referencia:
         'INVIMA (s.f). Formato de evaluación del nivel sanitario de cumplimiento para plantas de beneficio de aves. ',
-      link: 'https://share.google/8dKrbju6RTtAEZQHB',
+      link: '',
     },
     {
       referencia:
